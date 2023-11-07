@@ -15,12 +15,11 @@
     "medical"
   ],
   "screenshots": [],
-  "icons": [
-    {
-      "src": "/vite.svg",
-      "type": "image/svg+xml"
-    }
-  ],
+  "icons": [{
+    "src": "R.png",
+    "sizes": "512x512",
+    "type": "image/webp"
+  }],
   "shortcuts": [
     {
       "name": "",
