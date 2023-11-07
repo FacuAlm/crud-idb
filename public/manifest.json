@@ -1,0 +1,31 @@
+{
+  "background_color": "#ffffff",
+  "description": "CRUD indexed",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "crud-idb.vercel",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "crud-idb.vercel",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "education",
+    "entertainment",
+    "medical"
+  ],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "",
+      "url": "",
+      "description": ""
+    }
+  ]
+}
